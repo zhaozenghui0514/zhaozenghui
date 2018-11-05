@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ <attr name="string" format="color"></attr>
+    <attr name="mred" format="string"></attr>
+    <declare-styleable name="LuckyPan">
+        <attr name="mred"></attr>
+    </declare-styleable>
+
+</resources>
